@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+.idea
+/vendor/
+.DS_Store
+go.sum
